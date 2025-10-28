@@ -4,7 +4,7 @@ layout: default
 
 <!-- Banner -->
 <p align="center">
-  <img src="./banner.png" alt="Lester Obando Banner" width="100%">
+  <img alt="Aspiring Software Developer" src="https://github.com/user-attachments/assets/c7da900d-e2c1-45c8-a2dc-66fe94377c43" width=100% />
 </p>
 
 # 👋 Hi, I'm Lester Obando
