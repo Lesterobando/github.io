@@ -1,13 +1,21 @@
-```markdown
-# github.io
+# 👋 Hi, I'm Lester!
 
-This repository hosts my GitHub Pages site at https://Lesterobando.github.io/.
+🚀 **Aspiring Software Engineer | AI & Crypto Enthusiast | Building daily to get smarter**
 
-How to update:
-- Edit `index.html` or add new files.
-- Commit and push to the `main` branch.
+- 🌱 Currently learning: SQL, C#, and front-end development  
+- 💡 Bootcamp: Software Development  
+- 💼 Goal: Build AI-powered tools and web apps  
+- ⚡ Fun fact: I turn ideas into projects — one repo at a time  
 
-Notes:
-- Because this repository is named `Lesterobando.github.io`, GitHub Pages will publish the `main` branch as your user site automatically.
-- If you see "This repository is empty", create `index.html` and `README.md` to get started.
-```
+## 🧰 Languages & Tools
+C# · HTML · CSS · JavaScript · Git · GitHub · VS Code · APIs
+
+## 📈 Current Focus
+- Building real-world portfolio projects  
+- Learning how to deploy and automate apps  
+- Exploring crypto & AI integration
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your-link/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram)](https://instagram.com/your-handle)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/yourusername)
