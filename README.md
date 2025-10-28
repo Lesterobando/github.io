@@ -1,3 +1,5 @@
+![Banner](<img width="1280" height="640" alt="Aspiring Software Developer" src="https://github.com/user-attachments/assets/9f273e79-1beb-4b18-9ba2-abed3e981537" />
+
 # 👋 Hi, I'm Lester!
 
 🚀 **Aspiring Software Engineer | AI & Crypto Enthusiast | Building daily to get smarter**
