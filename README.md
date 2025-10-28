@@ -1,6 +1,6 @@
 <!--- Banner ---> 
 <p align="center">
-  <img src="C:\Users\oband\Software\Aspiring Software Developer.png" alt="Lester Obando Banner" width="100%>
+  <img src="C:\Users\oband\Software\Aspiring Software Developer.png" alt="Lester Obando Banner" width="100%">
 </p>
 
 # 👋 Hi, I'm Lester!
