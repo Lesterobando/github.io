@@ -1,4 +1,7 @@
-![Banner](<img width="1280" height="640" alt="Aspiring Software Developer" src="https://github.com/user-attachments/assets/9f273e79-1beb-4b18-9ba2-abed3e981537" />
+<!--- Banner --->
+<p align="center">
+  <img src="C:\Users\oband\Software\Aspiring Software Developer.png" alt="Lester Obando Banner" width="100%>
+</p>
 
 # 👋 Hi, I'm Lester!
 
