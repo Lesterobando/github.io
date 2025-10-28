@@ -1,0 +1,11 @@
+# Site settings
+title: Lester Obando
+description: Aspiring Software Engineer | AI & Crypto Enthusiast
+baseurl: "" 
+url: "https://yourusername.github.io"
+
+# Theme
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
