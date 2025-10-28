@@ -1,6 +1,6 @@
 <!--- Banner ---> 
 <p align="center">
-  <img src="C:\Users\oband\Software\Aspiring Software Developer.png" alt="Lester Obando Banner" width="100%">
+  <img width="1280" height="640" alt="Aspiring Software Developer" src="https://github.com/user-attachments/assets/0f306cca-b67f-4c28-9ffa-6fa9cc401d37" />
 </p>
 
 # 👋 Hi, I'm Lester!
