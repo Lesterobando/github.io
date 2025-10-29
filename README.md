@@ -1,26 +1,8 @@
-<!--- Banner ---> 
-<p align="center">
-  <img width="1280" height="640" alt="Aspiring Software Developer" src="https://github.com/user-attachments/assets/0f306cca-b67f-4c28-9ffa-6fa9cc401d37" />
-</p>
+# Hi, I'm Lester 👋
+Aspiring software engineer learning full-stack web development.
 
-# 👋 Hi, I'm Lester!
-
-🚀 **Aspiring Software Engineer | AI & Crypto Enthusiast | Building daily to get smarter**
-
-- 🌱 Currently learning: SQL, C#, and front-end development  
-- 💡 Bootcamp: Software Development  
-- 💼 Goal: Build AI-powered tools and web apps  
-- ⚡ Fun fact: I turn ideas into projects — one repo at a time  
-
-## 🧰 Languages & Tools
-C# · HTML · CSS · JavaScript · Git · GitHub · VS Code · APIs
-
-## 📈 Current Focus
-- Building real-world portfolio projects  
-- Learning how to deploy and automate apps  
-- Exploring crypto & AI integration
-
-## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your-link/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram)](https://instagram.com/your-handle)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/yourusername)
+🌐 Portfolio: [lesterobando.github.io](https://lesterobando.github.io/)  
+📫 Email: obandolester@gmail.com  
+💻 Projects:
+- [Random Quote Generator](https://lesterobando.github.io/random-quote-generator/)
+- [Portfolio Website](https://lesterobando.github.io/)
