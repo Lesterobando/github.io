@@ -5,4 +5,4 @@ Aspiring software engineer learning full-stack web development.
 📫 Email: obandolester@gmail.com  
 💻 Projects:
 - [Random Quote Generator](https://lesterobando.github.io/random-quote-generator/)
-- [Portfolio Website](https://lesterobando.github.io/)
+- [Portfolio Website](https://lesterobando.github.io/portfolio)
