@@ -1,22 +1,89 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Welcome — Lesterobando</title>
-  <style>
-    body { font-family: system-ui, -apple-system, Roboto, Arial; padding: 3rem; max-width: 800px; margin: auto; }
-    h1 { color: #0b5cff; }
-    a { color: #0b5cff; }
-  </style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lester Obando — Portfolio</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-  <h1>Hello — welcome to my GitHub Pages site</h1>
-  <p>This is a basic HTML page. Edit <code>index.html</code> in the repository to change this text.</p>
-  <p>Next steps: learn HTML, add pages, or try a theme. Find resources at <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web">MDN Web Docs</a> and GitHub Pages docs.</p>
-  <footer>
-    <hr>
-    <p>Published from the <strong>github.io</strong> repository.</p>
-  </footer>
+  <nav>
+    <a href="#projects">Projects</a>
+    <a href="#skills">Skills</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <div class="container">
+    <header>
+      <h1>Lester Obando</h1>
+      <p>Aspiring software engineer — learning Web Dev & backend technologies.</p>
+    </header>
+
+    <!-- Projects -->
+    <section id="projects" class="projects">
+      <div class="card">
+        <h3>Random Quote Generator</h3>
+        <p>A simple web app that displays random inspirational quotes using HTML, CSS, and JavaScript. Each click shows a new quote dynamically.</p>
+        <a href="https://lesterobando.github.io/random-quote-generator/" target="_blank">Live Demo</a>
+        <a href="https://github.com/lesterobando/random-quote-generator" target="_blank">View on GitHub</a>
+      </div>
+
+      <div class="card">
+        <h3>Guess The Number Game</h3>
+        <p>A fun JavaScript game where players guess a random number between 1-100, with feedback after each guess.</p>
+        <a href="https://lesterobando.github.io/guess-the-number/" target="_blank">Live Demo</a>
+        <a href="https://github.com/lesterobando/guess-the-number" target="_blank">View on GitHub</a>
+      </div>
+
+      <div class="card">
+        <h3>Cafe Menu</h3>
+        <p>A stylish HTML and CSS menu page for a fictional café, built as part of a FreeCodeCamp challenge.</p>
+        <a href="https://lesterobando.github.io/cafe-menu/" target="_blank">Live Demo</a>
+        <a href="https://github.com/lesterobando/cafe-menus target="_blank">View on GitHub</a>
+      </div>
+    </section>
+
+    <!-- Skills -->
+    <section id="skills" class="skills">
+      <h2>Skills</h2>
+      <div class="skills-list">
+        <div class="skill"><i class="fab fa-html5"></i> HTML</div>
+        <div class="skill"><i class="fab fa-css3-alt"></i> CSS</div>
+        <div class="skill"><i class="fab fa-js-square"></i> JavaScript</div>
+        <div class="skill"><i class="fas fa-database"></i> SQL</div>
+        <div class="skill"><i class="fas fa-code"></i> C#</div>
+      </div>
+    </section>
+
+    <!-- Contact -->
+    <section id="contact" class="contact">
+      <h2>Contact Me</h2>
+      <a href="mailto:your.email@example.com" target="_blank">Email</a>
+      <a href="https://linkedin.com/in/lesterobando" target="_blank">LinkedIn</a>
+      <a href="https://github.com/lesterobando" target="_blank">GitHub</a>
+    </section>
+
+    <footer>
+      &copy; 2025 Lester Obando — Built with HTML & CSS
+    </footer>
+  </div>
+
+  <!-- Scroll Animation Script -->
+  <script>
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.style.opacity = 1;
+          entry.target.style.transform = "translateY(0) scale(1)";
+          observer.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.2 });
+
+    document.querySelectorAll('.card, .skill, .contact a').forEach(el => observer.observe(el));
+  </script>
 </body>
 </html>
